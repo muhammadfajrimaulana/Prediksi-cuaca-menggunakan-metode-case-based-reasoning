@@ -1,0 +1,937 @@
+wilayah,waktu,cuaca,kelembaban_persen,suhu_derajat_celcius,kelembaban_min,kelembaban_max,suhu_min,suhu_max
+Jakarta Pusat,Pagi,Hujan Ringan,65 - 95,22 - 31,65,95,22,31
+Jakarta Utara,Pagi,Berawan,65 - 95,22 - 31,65,95,22,31
+Jakarta Selatan,Pagi,Berawan,65 - 95,22 - 31,65,95,22,31
+Jakarta Barat,Pagi,Hujan Ringan,65 - 95,22 - 31,65,95,22,31
+Jakarta Timur,Pagi,Hujan Ringan,65 - 95,22 - 31,65,95,22,31
+Kepulauan Seribu,Pagi,Hujan Ringan,65 - 95,22 - 31,65,95,22,31
+Jakarta Pusat,Siang,Hujan Petir,65 - 95,22 - 31,65,95,22,31
+Jakarta Utara,Siang,Hujan Petir,65 - 95,22 - 31,65,95,22,31
+Jakarta Selatan,Siang,Hujan Petir,65 - 95,22 - 31,65,95,22,31
+Jakarta Barat,Siang,Hujan Petir,65 - 95,22 - 31,65,95,22,31
+Jakarta Timur,Siang,Hujan Petir,65 - 95,22 - 31,65,95,22,31
+Kepulauan Seribu,Siang,Hujan Petir,65 - 95,22 - 31,65,95,22,31
+Jakarta Pusat,Malam,Hujan Ringan,65 - 95,22 - 31,65,95,22,31
+Jakarta Utara,Malam,Hujan Ringan,65 - 95,22 - 31,65,95,22,31
+Jakarta Selatan,Malam,Hujan Ringan,65 - 95,22 - 31,65,95,22,31
+Jakarta Barat,Malam,Hujan Ringan,65 - 95,22 - 31,65,95,22,31
+Jakarta Timur,Malam,Hujan Ringan,65 - 95,22 - 31,65,95,22,31
+Kepulauan Seribu,Malam,Hujan Ringan,65 - 95,22 - 31,65,95,22,31
+Jakarta Pusat,Pagi,Berawan,60 - 95,21 - 34,60,95,21,34
+Jakarta Utara,Pagi,Berawan,60 - 95,21 - 34,60,95,21,34
+Jakarta Selatan,Pagi,Berawan,60 - 95,21 - 34,60,95,21,34
+Jakarta Barat,Pagi,Berawan,60 - 95,21 - 34,60,95,21,34
+Jakarta Timur,Pagi,Berawan,60 - 95,21 - 34,60,95,21,34
+Kepulauan Seribu,Pagi,Hujan Ringan,60 - 95,21 - 34,60,95,21,34
+Jakarta Pusat,Siang,Hujan Ringan,60 - 95,21 - 34,60,95,21,34
+Jakarta Utara,Siang,Hujan Ringan,60 - 95,21 - 34,60,95,21,34
+Jakarta Selatan,Siang,Hujan Sedang,60 - 95,21 - 34,60,95,21,34
+Jakarta Barat,Siang,Hujan Sedang,60 - 95,21 - 34,60,95,21,34
+Jakarta Timur,Siang,Hujan Sedang,60 - 95,21 - 34,60,95,21,34
+Kepulauan Seribu,Siang,Hujan Ringan,60 - 95,21 - 34,60,95,21,34
+Jakarta Pusat,Malam,Hujan Ringan,60 - 95,21 - 34,60,95,21,34
+Jakarta Utara,Malam,Hujan Ringan,60 - 95,21 - 34,60,95,21,34
+Jakarta Selatan,Malam,Hujan Ringan,60 - 95,21 - 34,60,95,21,34
+Jakarta Barat,Malam,Hujan Sedang,60 - 95,21 - 34,60,95,21,34
+Jakarta Timur,Malam,Hujan Ringan,60 - 95,21 - 34,60,95,21,34
+Kepulauan Seribu,Malam,Hujan Ringan,60 - 95,21 - 34,60,95,21,34
+Jakarta Pusat,Pagi,Berawan Tebal,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Utara,Pagi,Hujan Ringan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Selatan,Pagi,Berawan Tebal,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Barat,Pagi,Berawan Tebal,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Timur,Pagi,Berawan Tebal,60 - 95 ,22 - 31,60,95,22,31
+Kepulauan Seribu,Pagi,Hujan Ringan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Pusat,Siang,Berawan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Utara,Siang,Berawan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Selatan,Siang,Hujan Ringan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Barat,Siang,Berawan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Timur,Siang,Hujan Ringan,60 - 95 ,22 - 31,60,95,22,31
+Kepulauan Seribu,Siang,Berawan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Pusat,Malam,Berawan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Utara,Malam,Berawan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Selatan,Malam,Berawan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Barat,Malam,Berawan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Timur,Malam,Berawan,60 - 95 ,22 - 31,60,95,22,31
+Kepulauan Seribu,Malam,Berawan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Pusat,Pagi,Berawan,70 - 95,21 - 33,70,95,21,33
+Jakarta Utara,Pagi,Berawan,70 - 95,21 - 33,70,95,21,33
+Jakarta Selatan,Pagi,Berawan,70 - 95,21 - 33,70,95,21,33
+Jakarta Barat,Pagi,Berawan,70 - 95,21 - 33,70,95,21,33
+Jakarta Timur,Pagi,Berawan,70 - 95,21 - 33,70,95,21,33
+Kepulauan Seribu,Pagi,Hujan Ringan,70 - 95,21 - 33,70,95,21,33
+Jakarta Pusat,Siang,Hujan Ringan,70 - 95,21 - 33,70,95,21,33
+Jakarta Utara,Siang,Hujan Ringan,70 - 95,21 - 33,70,95,21,33
+Jakarta Selatan,Siang,Hujan Sedang,70 - 95,21 - 33,70,95,21,33
+Jakarta Barat,Siang,Hujan Sedang,70 - 95,21 - 33,70,95,21,33
+Jakarta Timur,Siang,Hujan Sedang,70 - 95,21 - 33,70,95,21,33
+Kepulauan Seribu,Siang,Hujan Ringan,70 - 95,21 - 33,70,95,21,33
+Jakarta Pusat,Malam,Hujan Ringan,70 - 95,21 - 33,70,95,21,33
+Jakarta Utara,Malam,Hujan Ringan,70 - 95,21 - 33,70,95,21,33
+Jakarta Selatan,Malam,Hujan Ringan,70 - 95,21 - 33,70,95,21,33
+Jakarta Barat,Malam,Hujan Sedang,70 - 95,21 - 33,70,95,21,33
+Jakarta Timur,Malam,Hujan Ringan,70 - 95,21 - 33,70,95,21,33
+Kepulauan Seribu,Malam,Hujan Ringan,70 - 95,21 - 33,70,95,21,33
+Jakarta Pusat,Pagi,Berawan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Utara,Pagi,Berawan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Selatan,Pagi,Berawan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Barat,Pagi,Berawan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Timur,Pagi,Berawan,75 - 100 ,22 - 32,75,100,22,32
+Kepulauan Seribu,Pagi,Hujan Ringan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Pusat,Siang,Hujan Ringan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Utara,Siang,Hujan Ringan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Selatan,Siang,Hujan Sedang,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Barat,Siang,Hujan Sedang,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Timur,Siang,Hujan Sedang,75 - 100 ,22 - 32,75,100,22,32
+Kepulauan Seribu,Siang,Hujan Ringan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Pusat,Malam,Hujan Ringan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Utara,Malam,Hujan Ringan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Selatan,Malam,Hujan Ringan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Barat,Malam,Hujan Sedang,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Timur,Malam,Hujan Ringan,75 - 100 ,22 - 32,75,100,22,32
+Kepulauan Seribu,Malam,Hujan Ringan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Pusat,Pagi,Berawan,65 - 97,22 - 32,65,97,22,32
+Jakarta Utara,Pagi,Berawan,65 - 97,22 - 32,65,97,22,32
+Jakarta Selatan,Pagi,Berawan,65 - 97,22 - 32,65,97,22,32
+Jakarta Barat,Pagi,Berawan,65 - 97,22 - 32,65,97,22,32
+Jakarta Timur,Pagi,Berawan,65 - 97,22 - 32,65,97,22,32
+Kepulauan Seribu,Pagi,Hujan Ringan,65 - 97,22 - 32,65,97,22,32
+Jakarta Pusat,Siang,Hujan Ringan,65 - 97,22 - 32,65,97,22,32
+Jakarta Utara,Siang,Hujan Ringan,65 - 97,22 - 32,65,97,22,32
+Jakarta Selatan,Siang,Hujan Sedang,65 - 97,22 - 32,65,97,22,32
+Jakarta Barat,Siang,Hujan Sedang,65 - 97,22 - 32,65,97,22,32
+Jakarta Timur,Siang,Hujan Sedang,65 - 97,22 - 32,65,97,22,32
+Kepulauan Seribu,Siang,Hujan Ringan,65 - 97,22 - 32,65,97,22,32
+Jakarta Pusat,Malam,Hujan Ringan,65 - 97,22 - 32,65,97,22,32
+Jakarta Utara,Malam,Hujan Ringan,65 - 97,22 - 32,65,97,22,32
+Jakarta Selatan,Malam,Hujan Ringan,65 - 97,22 - 32,65,97,22,32
+Jakarta Barat,Malam,Hujan Sedang,65 - 97,22 - 32,65,97,22,32
+Jakarta Timur,Malam,Hujan Ringan,65 - 97,22 - 32,65,97,22,32
+Kepulauan Seribu,Malam,Hujan Ringan,65 - 97,22 - 32,65,97,22,32
+Jakarta Pusat,Pagi,Berawan Tebal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Utara,Pagi,Berawan Tebal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Selatan,Pagi,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Barat,Pagi,Berawan Tebal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Timur,Pagi,Berawan Tebal,65 - 95 ,23 - 33,65,95,23,33
+Kepulauan Seribu,Pagi,Berawan Tebal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Pusat,Siang,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Utara,Siang,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Selatan,Siang,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Barat,Siang,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Timur,Siang,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Kepulauan Seribu,Siang,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Pusat,Malam,Hujan Petir,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Utara,Malam,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Selatan,Malam,Hujan Petir,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Barat,Malam,Hujan Petir,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Timur,Malam,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Kepulauan Seribu,Malam,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Pusat,Dini Hari,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Utara,Dini Hari,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Selatan,Dini Hari,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Barat,Dini Hari,Hujan Petir,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Timur,Dini Hari,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Kepulauan Seribu,Dini Hari,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Pusat,Pagi,Berawan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Utara,Pagi,Berawan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Selatan,Pagi,Berawan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Barat,Pagi,Berawan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Timur,Pagi,Berawan,60 - 95 ,24 - 32,60,95,24,32
+Kepulauan Seribu,Pagi,Hujan Ringan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Pusat,Siang,Hujan Ringan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Utara,Siang,Hujan Ringan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Selatan,Siang,Hujan Sedang,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Barat,Siang,Hujan Sedang,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Timur,Siang,Hujan Sedang,60 - 95 ,24 - 32,60,95,24,32
+Kepulauan Seribu,Siang,Hujan Ringan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Pusat,Malam,Hujan Ringan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Utara,Malam,Hujan Ringan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Selatan,Malam,Hujan Sedang,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Barat,Malam,Hujan Ringan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Timur,Malam,Hujan Ringan,60 - 95 ,24 - 32,60,95,24,32
+Kepulauan Seribu,Malam,Hujan Ringan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Pusat,Pagi,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Utara,Pagi,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Selatan,Pagi,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Barat,Pagi,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Timur,Pagi,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Kepulauan Seribu,Pagi,Hujan Sedang,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Pusat,Siang,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Utara,Siang,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Selatan,Siang,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Barat,Siang,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Timur,Siang,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Kepulauan Seribu,Siang,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Pusat,Malam,Berawan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Utara,Malam,Berawan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Selatan,Malam,Berawan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Barat,Malam,Berawan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Timur,Malam,Berawan,80 - 95 ,22 - 33 ,80,95,22,33
+Kepulauan Seribu,Malam,Cerah Berawan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Pusat,Pagi,Berawan Tebal,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Utara,Pagi,Berawan Tebal ,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Selatan,Pagi,Berawan,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Barat,Pagi,Berawan,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Timur,Pagi,Berawan,60 - 95 ,24 - 34 ,60,95,24,34
+Kepulauan Seribu,Pagi,Hujan Ringan,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Pusat,Siang,Berawan Tebal ,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Utara,Siang,Berawan Tebal,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Selatan,Siang,Berawan Tebal,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Barat,Siang,Berawan Tebal,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Timur,Siang,Berawan Tebal,60 - 95 ,24 - 34 ,60,95,24,34
+Kepulauan Seribu,Siang,Berawan Tebal,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Pusat,Malam,Berawan,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Utara,Malam,Berawan,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Selatan,Malam,Berawan,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Barat,Malam,Berawan,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Timur,Malam,Berawan,60 - 95 ,24 - 34 ,60,95,24,34
+Kepulauan Seribu,Malam,Hujan Ringan,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Pusat,Pagi,Hujan Lokal,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Utara,Pagi,Hujan Ringan,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Selatan,Pagi,Hujan Lokal,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Barat,Pagi,Hujan Lokal,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Timur,Pagi,Hujan Lokal,85 - 100 ,22 - 30,85,100,22,30
+Kepulauan Seribu,Pagi,Hujan Lokal,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Pusat,Siang,Hujan Sedang,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Utara,Siang,Hujan Ringan,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Selatan,Siang,Hujan Petir,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Barat,Siang,Hujan Petir,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Timur,Siang,Hujan Petir,85 - 100 ,22 - 30,85,100,22,30
+Kepulauan Seribu,Siang,Hujan Ringan,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Pusat,Malam,Berawan Tebal,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Utara,Malam,Berawan Tebal,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Selatan,Malam,Hujan Lokal,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Barat,Malam,Hujan Lokal,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Timur,Malam,Berawan tebal,85 - 100 ,22 - 30,85,100,22,30
+Kepulauan Seribu,Malam,Hujan Lokal,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Pusat,Pagi,Berawan,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Utara,Pagi,Berawan,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Selatan,Pagi,Hujan Lokal,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Barat,Pagi,Hujan Lokal,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Timur,Pagi,Berawan,60 - 100 ,22 - 33 ,60,100,22,33
+Kepulauan Seribu,Pagi,Hujan Petir,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Pusat,Siang,Hujan Ringan,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Utara,Siang,Hujan Ringan,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Selatan,Siang,Hujan Sedang,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Barat,Siang,Hujan Sedang,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Timur,Siang,Hujan Ringan,60 - 100 ,22 - 33 ,60,100,22,33
+Kepulauan Seribu,Siang,Hujan Ringan,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Pusat,Malam,Cerah Berawan,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Utara,Malam,Cerah Berawan,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Selatan,Malam,Cerah Berawan,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Barat,Malam,Cerah Berawan,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Timur,Malam,Cerah Berawan,60 - 100 ,22 - 33 ,60,100,22,33
+Kepulauan Seribu,Malam,Hujan Lokal,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Pusat,Pagi,Berawan,60 - 95,22 - 32,60,95,22,32
+Jakarta Utara,Pagi,Berawan,60 - 95,22 - 32,60,95,22,32
+Jakarta Selatan,Pagi,Berawan,60 - 95,22 - 32,60,95,22,32
+Jakarta Barat,Pagi,Berawan,60 - 95,22 - 32,60,95,22,32
+Jakarta Timur,Pagi,Berawan,60 - 95,22 - 32,60,95,22,32
+Kepulauan Seribu,Pagi,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Pusat,Siang,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Utara,Siang,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Selatan,Siang,Hujan Sedang,60 - 95,22 - 32,60,95,22,32
+Jakarta Barat,Siang,Hujan Sedang,60 - 95,22 - 32,60,95,22,32
+Jakarta Timur,Siang,Hujan Sedang,60 - 95,22 - 32,60,95,22,32
+Kepulauan Seribu,Siang,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Pusat,Malam,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Utara,Malam,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Selatan,Malam,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Barat,Malam,Hujan Sedang,60 - 95,22 - 32,60,95,22,32
+Jakarta Timur,Malam,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Kepulauan Seribu,Malam,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Pusat,Pagi,Berawan Tebal,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Utara,Pagi,Hujan Ringan,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Selatan,Pagi,Berawan,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Barat,Pagi,Berawan Tebal,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Timur,Pagi,Berawan,55 - 95 ,22 - 32  ,55,95,22,32
+Kepulauan Seribu,Pagi,Hujan Ringan,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Pusat,Siang,Hujan Sedang,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Utara,Siang,Hujan Petir,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Selatan,Siang,Hujan Ringan,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Barat,Siang,Hujan Sedang,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Timur,Siang,Hujan Ringan,55 - 95 ,22 - 32  ,55,95,22,32
+Kepulauan Seribu,Siang,Hujan Sedang,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Pusat,Malam,Berawan Tebal,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Utara,Malam,Berawan Tebal,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Selatan,Malam,Berawan Tebal,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Barat,Malam,Berawan Tebal,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Timur,Malam,Berawan Tebal,55 - 95 ,22 - 32  ,55,95,22,32
+Kepulauan Seribu,Malam,Berawan Tebal,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Pusat,Pagi,Berawan,60 - 95,22 - 32,60,95,22,32
+Jakarta Utara,Pagi,Berawan,60 - 95,22 - 32,60,95,22,32
+Jakarta Selatan,Pagi,Berawan,60 - 95,22 - 32,60,95,22,32
+Jakarta Barat,Pagi,Berawan,60 - 95,22 - 32,60,95,22,32
+Jakarta Timur,Pagi,Berawan,60 - 95,22 - 32,60,95,22,32
+Kepulauan Seribu,Pagi,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Pusat,Siang,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Utara,Siang,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Selatan,Siang,Hujan Sedang,60 - 95,22 - 32,60,95,22,32
+Jakarta Barat,Siang,Hujan Sedang,60 - 95,22 - 32,60,95,22,32
+Jakarta Timur,Siang,Hujan Sedang,60 - 95,22 - 32,60,95,22,32
+Kepulauan Seribu,Siang,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Pusat,Malam,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Utara,Malam,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Selatan,Malam,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Barat,Malam,Hujan Sedang,60 - 95,22 - 32,60,95,22,32
+Jakarta Timur,Malam,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Kepulauan Seribu,Malam,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Pusat,Pagi,Berawan Tebal,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Utara,Pagi,Berawan Tebal,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Selatan,Pagi,Hujan Lokal,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Barat,Pagi,Berawan Tebal,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Timur,Pagi,Hujan Lokal,65 - 90 ,22 - 33,65,90,22,33
+Kepulauan Seribu,Pagi,Hujan Ringan,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Pusat,Siang,Hujan Lokal,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Utara,Siang,Hujan Ringan,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Selatan,Siang,Hujan Lokal,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Barat,Siang,Hujan Lokal,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Timur,Siang,Hujan Lokal,65 - 90 ,22 - 33,65,90,22,33
+Kepulauan Seribu,Siang,Hujan Ringan,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Pusat,Malam,Berawan Tebal,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Utara,Malam,Berawan Tebal,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Selatan,Malam,Hujan Ringan,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Barat,Malam,Hujan Lokal,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Timur,Malam,Hujan Ringan,65 - 90 ,22 - 33,65,90,22,33
+Kepulauan Seribu,Malam,Hujan Ringan,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Pusat,Pagi,Hujan Sedang,75 - 90,21 - 33,75,90,21,33
+Jakarta Utara,Pagi,Hujan Ringan,75 - 90,21 - 33,75,90,21,33
+Jakarta Selatan,Pagi,Hujan Ringan,75 - 90,21 - 33,75,90,21,33
+Jakarta Barat,Pagi,Hujan Sedang,75 - 90,21 - 33,75,90,21,33
+Jakarta Timur,Pagi,Hujan Sedang,75 - 90,21 - 33,75,90,21,33
+Kepulauan Seribu,Pagi,Hujan Sedang,75 - 90,21 - 33,75,90,21,33
+Jakarta Pusat,Siang,Hujan Ringan,75 - 90,21 - 33,75,90,21,33
+Jakarta Utara,Siang,Hujan Ringan,75 - 90,21 - 33,75,90,21,33
+Jakarta Selatan,Siang,Hujan Lokal,75 - 90,21 - 33,75,90,21,33
+Jakarta Barat,Siang,Hujan Lokal,75 - 90,21 - 33,75,90,21,33
+Jakarta Timur,Siang,Hujan Ringan,75 - 90,21 - 33,75,90,21,33
+Kepulauan Seribu,Siang,Hujan Lokal,75 - 90,21 - 33,75,90,21,33
+Jakarta Pusat,Malam,Hujan Ringan,75 - 90,21 - 33,75,90,21,33
+Jakarta Utara,Malam,Hujan Sedang,75 - 90,21 - 33,75,90,21,33
+Jakarta Selatan,Malam,Hujan Ringan,75 - 90,21 - 33,75,90,21,33
+Jakarta Barat,Malam,Hujan Ringan,75 - 90,21 - 33,75,90,21,33
+Jakarta Timur,Malam,Hujan Ringan,75 - 90,21 - 33,75,90,21,33
+Kepulauan Seribu,Malam,Hujan Ringan,75 - 90,21 - 33,75,90,21,33
+Jakarta Pusat,Pagi,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Utara,Pagi,Berawan Tebal,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Selatan,Pagi,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Barat,Pagi,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Timur,Pagi,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Kepulauan Seribu,Pagi,Hujan Lokal,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Pusat,Siang,Berawan Tebal,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Utara,Siang,Berawan Tebal,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Selatan,Siang,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Barat,Siang,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Timur,Siang,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Kepulauan Seribu,Siang,Hujan Lokal,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Pusat,Malam,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Utara,Malam,Hujan Lokal,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Selatan,Malam,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Barat,Malam,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Timur,Malam,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Kepulauan Seribu,Malam,Hujan Lokal,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Pusat,Pagi,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Utara,Pagi,Berawan Tebal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Selatan,Pagi,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Barat,Pagi,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Timur,Pagi,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Kepulauan Seribu,Pagi,Hujan Lokal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Pusat,Siang,Berawan Tebal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Utara,Siang,Berawan Tebal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Selatan,Siang,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Barat,Siang,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Timur,Siang,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Kepulauan Seribu,Siang,Hujan Lokal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Pusat,Malam,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Utara,Malam,Hujan Lokal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Selatan,Malam,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Barat,Malam,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Timur,Malam,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Kepulauan Seribu,Malam,Hujan Lokal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Pusat,Dini Hari,Hujan Lokal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Utara,Dini Hari,Hujan Lokal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Selatan,Dini Hari,Hujan Lokal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Barat,Dini Hari,Hujan Lokal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Timur,Dini Hari,Hujan Lokal,60 - 95 ,21 - 33,60,95,21,33
+Kepulauan Seribu,Dini Hari,Hujan Lokal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Pusat,Pagi,Hujan Lokal,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Utara,Pagi,Hujan Lokal,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Selatan,Pagi,Hujan Lokal,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Barat,Pagi,Berawan Tebal,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Timur,Pagi,Berawan Tebal,65 - 95 ,25 - 33,65,95,25,33
+Kepulauan Seribu,Pagi,Berawan Tebal,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Pusat,Siang,Berawan,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Utara,Siang,Berawan,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Selatan,Siang,Berawan,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Barat,Siang,Berawan,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Timur,Siang,Berawan,65 - 95 ,25 - 33,65,95,25,33
+Kepulauan Seribu,Siang,Berawan,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Pusat,Malam,Berawan,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Utara,Malam,Hujan Ringan,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Selatan,Malam,Berawan,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Barat,Malam,Hujan Petir,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Timur,Malam,Hujan Ringan,65 - 95 ,25 - 33,65,95,25,33
+Kepulauan Seribu,Malam,Hujan Sedang,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Pusat,Dini Hari,Hujan Lokal,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Utara,Dini Hari,Hujan Ringan,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Selatan,Dini Hari,Hujan Ringan,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Barat,Dini Hari,Hujan Sedang,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Timur,Dini Hari,Hujan Sedang,65 - 95 ,25 - 33,65,95,25,33
+Kepulauan Seribu,Dini Hari,Hujan Sedang,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Pusat,Pagi,Hujan Ringan,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Utara,Pagi,Hujan Ringan,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Selatan,Pagi,Hujan Ringan,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Barat,Pagi,Hujan Sedang,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Timur,Pagi,Hujan Ringan,60 - 100 ,22 - 32,60,100,22,32
+Kepulauan Seribu,Pagi,Hujan Ringan,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Pusat,Siang,Hujan Ringan,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Utara,Siang,Hujan Ringan,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Selatan,Siang,Hujan Sedang,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Barat,Siang,Berawan,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Timur,Siang,Hujan Ringan,60 - 100 ,22 - 32,60,100,22,32
+Kepulauan Seribu,Siang,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Pusat,Malam,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Utara,Malam,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Selatan,Malam,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Barat,Malam,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Timur,Malam,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Kepulauan Seribu,Malam,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Pusat,Dini Hari,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Utara,Dini Hari,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Selatan,Dini Hari,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Barat,Dini Hari,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Timur,Dini Hari,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Kepulauan Seribu,Dini Hari,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Pusat,Pagi,Hujan Sedang,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Utara,Pagi,Hujan Sedang,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Selatan,Pagi,Hujan Sedang,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Barat,Pagi,Hujan Sedang,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Timur,Pagi,Hujan Sedang,65 - 100 ,22 - 31,65,100,22,31
+Kepulauan Seribu,Pagi,Hujan Sedang,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Pusat,Siang,Hujan Ringan,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Utara,Siang,Hujan Ringan,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Selatan,Siang,Hujan Ringan,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Barat,Siang,Hujan Ringan,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Timur,Siang,Hujan Ringan,65 - 100 ,22 - 31,65,100,22,31
+Kepulauan Seribu,Siang,Hujan Ringan,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Pusat,Malam,Hujan Lokal,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Utara,Malam,Hujan Lokal,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Selatan,Malam,Hujan Lokal,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Barat,Malam,Hujan Lokal,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Timur,Malam,Hujan Lokal,65 - 100 ,22 - 31,65,100,22,31
+Kepulauan Seribu,Malam,Hujan Lokal,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Pusat,Dini Hari,Hujan Lokal,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Utara,Dini Hari,Berawan Tebal,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Selatan,Dini Hari,Hujan Lokal,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Barat,Dini Hari,Hujan Lokal,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Timur,Dini Hari,Berawan Tebal,65 - 100 ,22 - 31,65,100,22,31
+Kepulauan Seribu,Dini Hari,Berawan Tebal,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Pusat,Pagi,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Utara,Pagi,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Selatan,Pagi,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Barat,Pagi,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Timur,Pagi,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Kepulauan Seribu,Pagi,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Pusat,Siang,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Utara,Siang,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Selatan,Siang,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Barat,Siang,Hujan Lokal,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Timur,Siang,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Kepulauan Seribu,Siang,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Pusat,Malam,Hujan Lokal,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Utara,Malam,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Selatan,Malam,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Barat,Malam,Hujan Sedang,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Timur,Malam,Hujan Lokal,85 - 100 ,24 - 31,85,100,24,31
+Kepulauan Seribu,Malam,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Pusat,Dini Hari,Hujan Lokal,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Utara,Dini Hari,Hujan Lokal,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Selatan,Dini Hari,Hujan Lokal,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Barat,Dini Hari,Hujan Petir,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Timur,Dini Hari,Hujan Lokal,85 - 100 ,24 - 31,85,100,24,31
+Kepulauan Seribu,Dini Hari,Hujan Lokal,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Pusat,Pagi,Berawan Tebal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Utara,Pagi,Berawan Tebal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Selatan,Pagi,Hujan Lokal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Barat,Pagi,Berawan Tebal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Timur,Pagi,Berawan Tebal,60 - 90 ,24 - 33,60,90,24,33
+Kepulauan Seribu,Pagi,Berawan Tebal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Pusat,Siang,Hujan Lokal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Utara,Siang,Hujan Lokal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Selatan,Siang,Hujan Lokal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Barat,Siang,Hujan Lokal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Timur,Siang,Hujan Lokal,60 - 90 ,24 - 33,60,90,24,33
+Kepulauan Seribu,Siang,Hujan Lokal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Pusat,Malam,Hujan Petir,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Utara,Malam,Hujan Lokal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Selatan,Malam,Hujan Petir,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Barat,Malam,Hujan Petir,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Timur,Malam,Hujan Lokal,60 - 90 ,24 - 33,60,90,24,33
+Kepulauan Seribu,Malam,Hujan Lokal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Pusat,Pagi,Hujan Ringan,65 - 95,22 - 31,65,95,22,31
+Jakarta Utara,Pagi,Berawan,65 - 95,22 - 31,65,95,22,31
+Jakarta Selatan,Pagi,Berawan,65 - 95,22 - 31,65,95,22,31
+Jakarta Barat,Pagi,Hujan Ringan,65 - 95,22 - 31,65,95,22,31
+Jakarta Timur,Pagi,Hujan Ringan,65 - 95,22 - 31,65,95,22,31
+Kepulauan Seribu,Pagi,Hujan Ringan,65 - 95,22 - 31,65,95,22,31
+Jakarta Pusat,Siang,Hujan Petir,65 - 95,22 - 31,65,95,22,31
+Jakarta Utara,Siang,Hujan Petir,65 - 95,22 - 31,65,95,22,31
+Jakarta Selatan,Siang,Hujan Petir,65 - 95,22 - 31,65,95,22,31
+Jakarta Barat,Siang,Hujan Petir,65 - 95,22 - 31,65,95,22,31
+Jakarta Timur,Siang,Hujan Petir,65 - 95,22 - 31,65,95,22,31
+Kepulauan Seribu,Siang,Hujan Petir,65 - 95,22 - 31,65,95,22,31
+Jakarta Pusat,Malam,Hujan Ringan,65 - 95,22 - 31,65,95,22,31
+Jakarta Utara,Malam,Hujan Ringan,65 - 95,22 - 31,65,95,22,31
+Jakarta Selatan,Malam,Hujan Ringan,65 - 95,22 - 31,65,95,22,31
+Jakarta Barat,Malam,Hujan Ringan,65 - 95,22 - 31,65,95,22,31
+Jakarta Timur,Malam,Hujan Ringan,65 - 95,22 - 31,65,95,22,31
+Kepulauan Seribu,Malam,Hujan Ringan,65 - 95,22 - 31,65,95,22,31
+Jakarta Pusat,Pagi,Berawan,60 - 95,21 - 34,60,95,21,34
+Jakarta Utara,Pagi,Berawan,60 - 95,21 - 34,60,95,21,34
+Jakarta Selatan,Pagi,Berawan,60 - 95,21 - 34,60,95,21,34
+Jakarta Barat,Pagi,Berawan,60 - 95,21 - 34,60,95,21,34
+Jakarta Timur,Pagi,Berawan,60 - 95,21 - 34,60,95,21,34
+Kepulauan Seribu,Pagi,Hujan Ringan,60 - 95,21 - 34,60,95,21,34
+Jakarta Pusat,Siang,Hujan Ringan,60 - 95,21 - 34,60,95,21,34
+Jakarta Utara,Siang,Hujan Ringan,60 - 95,21 - 34,60,95,21,34
+Jakarta Selatan,Siang,Hujan Sedang,60 - 95,21 - 34,60,95,21,34
+Jakarta Barat,Siang,Hujan Sedang,60 - 95,21 - 34,60,95,21,34
+Jakarta Timur,Siang,Hujan Sedang,60 - 95,21 - 34,60,95,21,34
+Kepulauan Seribu,Siang,Hujan Ringan,60 - 95,21 - 34,60,95,21,34
+Jakarta Pusat,Malam,Hujan Ringan,60 - 95,21 - 34,60,95,21,34
+Jakarta Utara,Malam,Hujan Ringan,60 - 95,21 - 34,60,95,21,34
+Jakarta Selatan,Malam,Hujan Ringan,60 - 95,21 - 34,60,95,21,34
+Jakarta Barat,Malam,Hujan Sedang,60 - 95,21 - 34,60,95,21,34
+Jakarta Timur,Malam,Hujan Ringan,60 - 95,21 - 34,60,95,21,34
+Kepulauan Seribu,Malam,Hujan Ringan,60 - 95,21 - 34,60,95,21,34
+Jakarta Pusat,Pagi,Berawan Tebal,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Utara,Pagi,Hujan Ringan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Selatan,Pagi,Berawan Tebal,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Barat,Pagi,Berawan Tebal,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Timur,Pagi,Berawan Tebal,60 - 95 ,22 - 31,60,95,22,31
+Kepulauan Seribu,Pagi,Hujan Ringan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Pusat,Siang,Berawan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Utara,Siang,Berawan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Selatan,Siang,Hujan Ringan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Barat,Siang,Berawan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Timur,Siang,Hujan Ringan,60 - 95 ,22 - 31,60,95,22,31
+Kepulauan Seribu,Siang,Berawan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Pusat,Malam,Berawan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Utara,Malam,Berawan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Selatan,Malam,Berawan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Barat,Malam,Berawan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Timur,Malam,Berawan,60 - 95 ,22 - 31,60,95,22,31
+Kepulauan Seribu,Malam,Berawan,60 - 95 ,22 - 31,60,95,22,31
+Jakarta Pusat,Pagi,Berawan,70 - 95,21 - 33,70,95,21,33
+Jakarta Utara,Pagi,Berawan,70 - 95,21 - 33,70,95,21,33
+Jakarta Selatan,Pagi,Berawan,70 - 95,21 - 33,70,95,21,33
+Jakarta Barat,Pagi,Berawan,70 - 95,21 - 33,70,95,21,33
+Jakarta Timur,Pagi,Berawan,70 - 95,21 - 33,70,95,21,33
+Kepulauan Seribu,Pagi,Hujan Ringan,70 - 95,21 - 33,70,95,21,33
+Jakarta Pusat,Siang,Hujan Ringan,70 - 95,21 - 33,70,95,21,33
+Jakarta Utara,Siang,Hujan Ringan,70 - 95,21 - 33,70,95,21,33
+Jakarta Selatan,Siang,Hujan Sedang,70 - 95,21 - 33,70,95,21,33
+Jakarta Barat,Siang,Hujan Sedang,70 - 95,21 - 33,70,95,21,33
+Jakarta Timur,Siang,Hujan Sedang,70 - 95,21 - 33,70,95,21,33
+Kepulauan Seribu,Siang,Hujan Ringan,70 - 95,21 - 33,70,95,21,33
+Jakarta Pusat,Malam,Hujan Ringan,70 - 95,21 - 33,70,95,21,33
+Jakarta Utara,Malam,Hujan Ringan,70 - 95,21 - 33,70,95,21,33
+Jakarta Selatan,Malam,Hujan Ringan,70 - 95,21 - 33,70,95,21,33
+Jakarta Barat,Malam,Hujan Sedang,70 - 95,21 - 33,70,95,21,33
+Jakarta Timur,Malam,Hujan Ringan,70 - 95,21 - 33,70,95,21,33
+Kepulauan Seribu,Malam,Hujan Ringan,70 - 95,21 - 33,70,95,21,33
+Jakarta Pusat,Pagi,Berawan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Utara,Pagi,Berawan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Selatan,Pagi,Berawan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Barat,Pagi,Berawan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Timur,Pagi,Berawan,75 - 100 ,22 - 32,75,100,22,32
+Kepulauan Seribu,Pagi,Hujan Ringan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Pusat,Siang,Hujan Ringan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Utara,Siang,Hujan Ringan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Selatan,Siang,Hujan Sedang,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Barat,Siang,Hujan Sedang,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Timur,Siang,Hujan Sedang,75 - 100 ,22 - 32,75,100,22,32
+Kepulauan Seribu,Siang,Hujan Ringan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Pusat,Malam,Hujan Ringan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Utara,Malam,Hujan Ringan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Selatan,Malam,Hujan Ringan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Barat,Malam,Hujan Sedang,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Timur,Malam,Hujan Ringan,75 - 100 ,22 - 32,75,100,22,32
+Kepulauan Seribu,Malam,Hujan Ringan,75 - 100 ,22 - 32,75,100,22,32
+Jakarta Pusat,Pagi,Berawan,65 - 97,22 - 32,65,97,22,32
+Jakarta Utara,Pagi,Berawan,65 - 97,22 - 32,65,97,22,32
+Jakarta Selatan,Pagi,Berawan,65 - 97,22 - 32,65,97,22,32
+Jakarta Barat,Pagi,Berawan,65 - 97,22 - 32,65,97,22,32
+Jakarta Timur,Pagi,Berawan,65 - 97,22 - 32,65,97,22,32
+Kepulauan Seribu,Pagi,Hujan Ringan,65 - 97,22 - 32,65,97,22,32
+Jakarta Pusat,Siang,Hujan Ringan,65 - 97,22 - 32,65,97,22,32
+Jakarta Utara,Siang,Hujan Ringan,65 - 97,22 - 32,65,97,22,32
+Jakarta Selatan,Siang,Hujan Sedang,65 - 97,22 - 32,65,97,22,32
+Jakarta Barat,Siang,Hujan Sedang,65 - 97,22 - 32,65,97,22,32
+Jakarta Timur,Siang,Hujan Sedang,65 - 97,22 - 32,65,97,22,32
+Kepulauan Seribu,Siang,Hujan Ringan,65 - 97,22 - 32,65,97,22,32
+Jakarta Pusat,Malam,Hujan Ringan,65 - 97,22 - 32,65,97,22,32
+Jakarta Utara,Malam,Hujan Ringan,65 - 97,22 - 32,65,97,22,32
+Jakarta Selatan,Malam,Hujan Ringan,65 - 97,22 - 32,65,97,22,32
+Jakarta Barat,Malam,Hujan Sedang,65 - 97,22 - 32,65,97,22,32
+Jakarta Timur,Malam,Hujan Ringan,65 - 97,22 - 32,65,97,22,32
+Kepulauan Seribu,Malam,Hujan Ringan,65 - 97,22 - 32,65,97,22,32
+Jakarta Pusat,Pagi,Berawan Tebal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Utara,Pagi,Berawan Tebal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Selatan,Pagi,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Barat,Pagi,Berawan Tebal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Timur,Pagi,Berawan Tebal,65 - 95 ,23 - 33,65,95,23,33
+Kepulauan Seribu,Pagi,Berawan Tebal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Pusat,Siang,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Utara,Siang,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Selatan,Siang,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Barat,Siang,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Timur,Siang,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Kepulauan Seribu,Siang,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Pusat,Malam,Hujan Petir,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Utara,Malam,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Selatan,Malam,Hujan Petir,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Barat,Malam,Hujan Petir,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Timur,Malam,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Kepulauan Seribu,Malam,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Pusat,Dini Hari,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Utara,Dini Hari,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Selatan,Dini Hari,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Barat,Dini Hari,Hujan Petir,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Timur,Dini Hari,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Kepulauan Seribu,Dini Hari,Hujan Lokal,65 - 95 ,23 - 33,65,95,23,33
+Jakarta Pusat,Pagi,Berawan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Utara,Pagi,Berawan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Selatan,Pagi,Berawan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Barat,Pagi,Berawan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Timur,Pagi,Berawan,60 - 95 ,24 - 32,60,95,24,32
+Kepulauan Seribu,Pagi,Hujan Ringan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Pusat,Siang,Hujan Ringan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Utara,Siang,Hujan Ringan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Selatan,Siang,Hujan Sedang,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Barat,Siang,Hujan Sedang,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Timur,Siang,Hujan Sedang,60 - 95 ,24 - 32,60,95,24,32
+Kepulauan Seribu,Siang,Hujan Ringan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Pusat,Malam,Hujan Ringan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Utara,Malam,Hujan Ringan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Selatan,Malam,Hujan Sedang,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Barat,Malam,Hujan Ringan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Timur,Malam,Hujan Ringan,60 - 95 ,24 - 32,60,95,24,32
+Kepulauan Seribu,Malam,Hujan Ringan,60 - 95 ,24 - 32,60,95,24,32
+Jakarta Pusat,Pagi,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Utara,Pagi,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Selatan,Pagi,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Barat,Pagi,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Timur,Pagi,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Kepulauan Seribu,Pagi,Hujan Sedang,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Pusat,Siang,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Utara,Siang,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Selatan,Siang,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Barat,Siang,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Timur,Siang,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Kepulauan Seribu,Siang,Hujan Ringan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Pusat,Malam,Berawan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Utara,Malam,Berawan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Selatan,Malam,Berawan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Barat,Malam,Berawan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Timur,Malam,Berawan,80 - 95 ,22 - 33 ,80,95,22,33
+Kepulauan Seribu,Malam,Cerah Berawan,80 - 95 ,22 - 33 ,80,95,22,33
+Jakarta Pusat,Pagi,Berawan Tebal,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Utara,Pagi,Berawan Tebal ,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Selatan,Pagi,Berawan,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Barat,Pagi,Berawan,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Timur,Pagi,Berawan,60 - 95 ,24 - 34 ,60,95,24,34
+Kepulauan Seribu,Pagi,Hujan Ringan,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Pusat,Siang,Berawan Tebal ,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Utara,Siang,Berawan Tebal,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Selatan,Siang,Berawan Tebal,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Barat,Siang,Berawan Tebal,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Timur,Siang,Berawan Tebal,60 - 95 ,24 - 34 ,60,95,24,34
+Kepulauan Seribu,Siang,Berawan Tebal,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Pusat,Malam,Berawan,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Utara,Malam,Berawan,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Selatan,Malam,Berawan,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Barat,Malam,Berawan,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Timur,Malam,Berawan,60 - 95 ,24 - 34 ,60,95,24,34
+Kepulauan Seribu,Malam,Hujan Ringan,60 - 95 ,24 - 34 ,60,95,24,34
+Jakarta Pusat,Pagi,Hujan Lokal,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Utara,Pagi,Hujan Ringan,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Selatan,Pagi,Hujan Lokal,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Barat,Pagi,Hujan Lokal,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Timur,Pagi,Hujan Lokal,85 - 100 ,22 - 30,85,100,22,30
+Kepulauan Seribu,Pagi,Hujan Lokal,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Pusat,Siang,Hujan Sedang,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Utara,Siang,Hujan Ringan,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Selatan,Siang,Hujan Petir,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Barat,Siang,Hujan Petir,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Timur,Siang,Hujan Petir,85 - 100 ,22 - 30,85,100,22,30
+Kepulauan Seribu,Siang,Hujan Ringan,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Pusat,Malam,Berawan Tebal,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Utara,Malam,Berawan Tebal,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Selatan,Malam,Hujan Lokal,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Barat,Malam,Hujan Lokal,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Timur,Malam,Berawan tebal,85 - 100 ,22 - 30,85,100,22,30
+Kepulauan Seribu,Malam,Hujan Lokal,85 - 100 ,22 - 30,85,100,22,30
+Jakarta Pusat,Pagi,Berawan,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Utara,Pagi,Berawan,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Selatan,Pagi,Hujan Lokal,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Barat,Pagi,Hujan Lokal,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Timur,Pagi,Berawan,60 - 100 ,22 - 33 ,60,100,22,33
+Kepulauan Seribu,Pagi,Hujan Petir,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Pusat,Siang,Hujan Ringan,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Utara,Siang,Hujan Ringan,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Selatan,Siang,Hujan Sedang,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Barat,Siang,Hujan Sedang,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Timur,Siang,Hujan Ringan,60 - 100 ,22 - 33 ,60,100,22,33
+Kepulauan Seribu,Siang,Hujan Ringan,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Pusat,Malam,Cerah Berawan,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Utara,Malam,Cerah Berawan,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Selatan,Malam,Cerah Berawan,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Barat,Malam,Cerah Berawan,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Timur,Malam,Cerah Berawan,60 - 100 ,22 - 33 ,60,100,22,33
+Kepulauan Seribu,Malam,Hujan Lokal,60 - 100 ,22 - 33 ,60,100,22,33
+Jakarta Pusat,Pagi,Berawan,60 - 95,22 - 32,60,95,22,32
+Jakarta Utara,Pagi,Berawan,60 - 95,22 - 32,60,95,22,32
+Jakarta Selatan,Pagi,Berawan,60 - 95,22 - 32,60,95,22,32
+Jakarta Barat,Pagi,Berawan,60 - 95,22 - 32,60,95,22,32
+Jakarta Timur,Pagi,Berawan,60 - 95,22 - 32,60,95,22,32
+Kepulauan Seribu,Pagi,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Pusat,Siang,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Utara,Siang,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Selatan,Siang,Hujan Sedang,60 - 95,22 - 32,60,95,22,32
+Jakarta Barat,Siang,Hujan Sedang,60 - 95,22 - 32,60,95,22,32
+Jakarta Timur,Siang,Hujan Sedang,60 - 95,22 - 32,60,95,22,32
+Kepulauan Seribu,Siang,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Pusat,Malam,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Utara,Malam,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Selatan,Malam,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Barat,Malam,Hujan Sedang,60 - 95,22 - 32,60,95,22,32
+Jakarta Timur,Malam,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Kepulauan Seribu,Malam,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Pusat,Pagi,Berawan Tebal,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Utara,Pagi,Hujan Ringan,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Selatan,Pagi,Berawan,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Barat,Pagi,Berawan Tebal,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Timur,Pagi,Berawan,55 - 95 ,22 - 32  ,55,95,22,32
+Kepulauan Seribu,Pagi,Hujan Ringan,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Pusat,Siang,Hujan Sedang,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Utara,Siang,Hujan Petir,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Selatan,Siang,Hujan Ringan,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Barat,Siang,Hujan Sedang,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Timur,Siang,Hujan Ringan,55 - 95 ,22 - 32  ,55,95,22,32
+Kepulauan Seribu,Siang,Hujan Sedang,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Pusat,Malam,Berawan Tebal,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Utara,Malam,Berawan Tebal,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Selatan,Malam,Berawan Tebal,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Barat,Malam,Berawan Tebal,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Timur,Malam,Berawan Tebal,55 - 95 ,22 - 32  ,55,95,22,32
+Kepulauan Seribu,Malam,Berawan Tebal,55 - 95 ,22 - 32  ,55,95,22,32
+Jakarta Pusat,Pagi,Berawan,60 - 95,22 - 32,60,95,22,32
+Jakarta Utara,Pagi,Berawan,60 - 95,22 - 32,60,95,22,32
+Jakarta Selatan,Pagi,Berawan,60 - 95,22 - 32,60,95,22,32
+Jakarta Barat,Pagi,Berawan,60 - 95,22 - 32,60,95,22,32
+Jakarta Timur,Pagi,Berawan,60 - 95,22 - 32,60,95,22,32
+Kepulauan Seribu,Pagi,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Pusat,Siang,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Utara,Siang,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Selatan,Siang,Hujan Sedang,60 - 95,22 - 32,60,95,22,32
+Jakarta Barat,Siang,Hujan Sedang,60 - 95,22 - 32,60,95,22,32
+Jakarta Timur,Siang,Hujan Sedang,60 - 95,22 - 32,60,95,22,32
+Kepulauan Seribu,Siang,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Pusat,Malam,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Utara,Malam,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Selatan,Malam,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Barat,Malam,Hujan Sedang,60 - 95,22 - 32,60,95,22,32
+Jakarta Timur,Malam,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Kepulauan Seribu,Malam,Hujan Ringan,60 - 95,22 - 32,60,95,22,32
+Jakarta Pusat,Pagi,Berawan Tebal,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Utara,Pagi,Berawan Tebal,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Selatan,Pagi,Hujan Lokal,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Barat,Pagi,Berawan Tebal,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Timur,Pagi,Hujan Lokal,65 - 90 ,22 - 33,65,90,22,33
+Kepulauan Seribu,Pagi,Hujan Ringan,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Pusat,Siang,Hujan Lokal,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Utara,Siang,Hujan Ringan,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Selatan,Siang,Hujan Lokal,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Barat,Siang,Hujan Lokal,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Timur,Siang,Hujan Lokal,65 - 90 ,22 - 33,65,90,22,33
+Kepulauan Seribu,Siang,Hujan Ringan,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Pusat,Malam,Berawan Tebal,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Utara,Malam,Berawan Tebal,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Selatan,Malam,Hujan Ringan,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Barat,Malam,Hujan Lokal,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Timur,Malam,Hujan Ringan,65 - 90 ,22 - 33,65,90,22,33
+Kepulauan Seribu,Malam,Hujan Ringan,65 - 90 ,22 - 33,65,90,22,33
+Jakarta Pusat,Pagi,Hujan Sedang,75 - 90,21 - 33,75,90,21,33
+Jakarta Utara,Pagi,Hujan Ringan,75 - 90,21 - 33,75,90,21,33
+Jakarta Selatan,Pagi,Hujan Ringan,75 - 90,21 - 33,75,90,21,33
+Jakarta Barat,Pagi,Hujan Sedang,75 - 90,21 - 33,75,90,21,33
+Jakarta Timur,Pagi,Hujan Sedang,75 - 90,21 - 33,75,90,21,33
+Kepulauan Seribu,Pagi,Hujan Sedang,75 - 90,21 - 33,75,90,21,33
+Jakarta Pusat,Siang,Hujan Ringan,75 - 90,21 - 33,75,90,21,33
+Jakarta Utara,Siang,Hujan Ringan,75 - 90,21 - 33,75,90,21,33
+Jakarta Selatan,Siang,Hujan Lokal,75 - 90,21 - 33,75,90,21,33
+Jakarta Barat,Siang,Hujan Lokal,75 - 90,21 - 33,75,90,21,33
+Jakarta Timur,Siang,Hujan Ringan,75 - 90,21 - 33,75,90,21,33
+Kepulauan Seribu,Siang,Hujan Lokal,75 - 90,21 - 33,75,90,21,33
+Jakarta Pusat,Malam,Hujan Ringan,75 - 90,21 - 33,75,90,21,33
+Jakarta Utara,Malam,Hujan Sedang,75 - 90,21 - 33,75,90,21,33
+Jakarta Selatan,Malam,Hujan Ringan,75 - 90,21 - 33,75,90,21,33
+Jakarta Barat,Malam,Hujan Ringan,75 - 90,21 - 33,75,90,21,33
+Jakarta Timur,Malam,Hujan Ringan,75 - 90,21 - 33,75,90,21,33
+Kepulauan Seribu,Malam,Hujan Ringan,75 - 90,21 - 33,75,90,21,33
+Jakarta Pusat,Pagi,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Utara,Pagi,Berawan Tebal,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Selatan,Pagi,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Barat,Pagi,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Timur,Pagi,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Kepulauan Seribu,Pagi,Hujan Lokal,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Pusat,Siang,Berawan Tebal,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Utara,Siang,Berawan Tebal,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Selatan,Siang,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Barat,Siang,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Timur,Siang,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Kepulauan Seribu,Siang,Hujan Lokal,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Pusat,Malam,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Utara,Malam,Hujan Lokal,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Selatan,Malam,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Barat,Malam,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Timur,Malam,Berawan,55 - 95 ,21 - 32,55,95,21,32
+Kepulauan Seribu,Malam,Hujan Lokal,55 - 95 ,21 - 32,55,95,21,32
+Jakarta Pusat,Pagi,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Utara,Pagi,Berawan Tebal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Selatan,Pagi,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Barat,Pagi,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Timur,Pagi,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Kepulauan Seribu,Pagi,Hujan Lokal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Pusat,Siang,Berawan Tebal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Utara,Siang,Berawan Tebal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Selatan,Siang,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Barat,Siang,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Timur,Siang,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Kepulauan Seribu,Siang,Hujan Lokal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Pusat,Malam,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Utara,Malam,Hujan Lokal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Selatan,Malam,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Barat,Malam,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Timur,Malam,Berawan,60 - 95 ,21 - 33,60,95,21,33
+Kepulauan Seribu,Malam,Hujan Lokal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Pusat,Dini Hari,Hujan Lokal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Utara,Dini Hari,Hujan Lokal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Selatan,Dini Hari,Hujan Lokal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Barat,Dini Hari,Hujan Lokal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Timur,Dini Hari,Hujan Lokal,60 - 95 ,21 - 33,60,95,21,33
+Kepulauan Seribu,Dini Hari,Hujan Lokal,60 - 95 ,21 - 33,60,95,21,33
+Jakarta Pusat,Pagi,Hujan Lokal,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Utara,Pagi,Hujan Lokal,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Selatan,Pagi,Hujan Lokal,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Barat,Pagi,Berawan Tebal,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Timur,Pagi,Berawan Tebal,65 - 95 ,25 - 33,65,95,25,33
+Kepulauan Seribu,Pagi,Berawan Tebal,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Pusat,Siang,Berawan,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Utara,Siang,Berawan,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Selatan,Siang,Berawan,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Barat,Siang,Berawan,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Timur,Siang,Berawan,65 - 95 ,25 - 33,65,95,25,33
+Kepulauan Seribu,Siang,Berawan,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Pusat,Malam,Berawan,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Utara,Malam,Hujan Ringan,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Selatan,Malam,Berawan,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Barat,Malam,Hujan Petir,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Timur,Malam,Hujan Ringan,65 - 95 ,25 - 33,65,95,25,33
+Kepulauan Seribu,Malam,Hujan Sedang,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Pusat,Dini Hari,Hujan Lokal,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Utara,Dini Hari,Hujan Ringan,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Selatan,Dini Hari,Hujan Ringan,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Barat,Dini Hari,Hujan Sedang,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Timur,Dini Hari,Hujan Sedang,65 - 95 ,25 - 33,65,95,25,33
+Kepulauan Seribu,Dini Hari,Hujan Sedang,65 - 95 ,25 - 33,65,95,25,33
+Jakarta Pusat,Pagi,Hujan Ringan,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Utara,Pagi,Hujan Ringan,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Selatan,Pagi,Hujan Ringan,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Barat,Pagi,Hujan Sedang,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Timur,Pagi,Hujan Ringan,60 - 100 ,22 - 32,60,100,22,32
+Kepulauan Seribu,Pagi,Hujan Ringan,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Pusat,Siang,Hujan Ringan,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Utara,Siang,Hujan Ringan,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Selatan,Siang,Hujan Sedang,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Barat,Siang,Berawan,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Timur,Siang,Hujan Ringan,60 - 100 ,22 - 32,60,100,22,32
+Kepulauan Seribu,Siang,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Pusat,Malam,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Utara,Malam,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Selatan,Malam,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Barat,Malam,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Timur,Malam,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Kepulauan Seribu,Malam,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Pusat,Dini Hari,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Utara,Dini Hari,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Selatan,Dini Hari,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Barat,Dini Hari,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Timur,Dini Hari,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Kepulauan Seribu,Dini Hari,Hujan Lokal,60 - 100 ,22 - 32,60,100,22,32
+Jakarta Pusat,Pagi,Hujan Sedang,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Utara,Pagi,Hujan Sedang,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Selatan,Pagi,Hujan Sedang,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Barat,Pagi,Hujan Sedang,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Timur,Pagi,Hujan Sedang,65 - 100 ,22 - 31,65,100,22,31
+Kepulauan Seribu,Pagi,Hujan Sedang,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Pusat,Siang,Hujan Ringan,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Utara,Siang,Hujan Ringan,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Selatan,Siang,Hujan Ringan,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Barat,Siang,Hujan Ringan,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Timur,Siang,Hujan Ringan,65 - 100 ,22 - 31,65,100,22,31
+Kepulauan Seribu,Siang,Hujan Ringan,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Pusat,Malam,Hujan Lokal,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Utara,Malam,Hujan Lokal,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Selatan,Malam,Hujan Lokal,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Barat,Malam,Hujan Lokal,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Timur,Malam,Hujan Lokal,65 - 100 ,22 - 31,65,100,22,31
+Kepulauan Seribu,Malam,Hujan Lokal,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Pusat,Dini Hari,Hujan Lokal,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Utara,Dini Hari,Berawan Tebal,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Selatan,Dini Hari,Hujan Lokal,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Barat,Dini Hari,Hujan Lokal,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Timur,Dini Hari,Berawan Tebal,65 - 100 ,22 - 31,65,100,22,31
+Kepulauan Seribu,Dini Hari,Berawan Tebal,65 - 100 ,22 - 31,65,100,22,31
+Jakarta Pusat,Pagi,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Utara,Pagi,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Selatan,Pagi,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Barat,Pagi,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Timur,Pagi,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Kepulauan Seribu,Pagi,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Pusat,Siang,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Utara,Siang,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Selatan,Siang,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Barat,Siang,Hujan Lokal,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Timur,Siang,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Kepulauan Seribu,Siang,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Pusat,Malam,Hujan Lokal,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Utara,Malam,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Selatan,Malam,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Barat,Malam,Hujan Sedang,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Timur,Malam,Hujan Lokal,85 - 100 ,24 - 31,85,100,24,31
+Kepulauan Seribu,Malam,Hujan Ringan,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Pusat,Dini Hari,Hujan Lokal,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Utara,Dini Hari,Hujan Lokal,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Selatan,Dini Hari,Hujan Lokal,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Barat,Dini Hari,Hujan Petir,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Timur,Dini Hari,Hujan Lokal,85 - 100 ,24 - 31,85,100,24,31
+Kepulauan Seribu,Dini Hari,Hujan Lokal,85 - 100 ,24 - 31,85,100,24,31
+Jakarta Pusat,Pagi,Berawan Tebal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Utara,Pagi,Berawan Tebal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Selatan,Pagi,Hujan Lokal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Barat,Pagi,Berawan Tebal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Timur,Pagi,Berawan Tebal,60 - 90 ,24 - 33,60,90,24,33
+Kepulauan Seribu,Pagi,Berawan Tebal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Pusat,Siang,Hujan Lokal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Utara,Siang,Hujan Lokal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Selatan,Siang,Hujan Lokal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Barat,Siang,Hujan Lokal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Timur,Siang,Hujan Lokal,60 - 90 ,24 - 33,60,90,24,33
+Kepulauan Seribu,Siang,Hujan Lokal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Pusat,Malam,Hujan Petir,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Utara,Malam,Hujan Lokal,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Selatan,Malam,Hujan Petir,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Barat,Malam,Hujan Petir,60 - 90 ,24 - 33,60,90,24,33
+Jakarta Timur,Malam,Hujan Lokal,60 - 90 ,24 - 33,60,90,24,33
+Kepulauan Seribu,Malam,Hujan Lokal,60 - 90 ,24 - 33,60,90,24,33
